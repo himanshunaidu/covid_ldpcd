@@ -1,0 +1,35 @@
+data_path = '<>'
+gen_path = '<>'
+
+covid_path = '<>'
+covid_std_path = '<>'
+covid_ldp_path = '<>'
+normal_path = '<>'
+normal_std_path = '<>'
+normal_ldp_path = '<>'
+bacterial_path = '<>'
+bacterial_std_path = '<>'
+bacterial_ldp_path = '<>'
+viral_path = '<>'
+viral_std_path = '<>'
+viral_ldp_path = '<>'
+
+dir_path = '<>'
+
+train_path = '<>'
+test_path = '<>'
+
+covid_path_name = 'COVID'
+covid_std_path_name = 'COVID_STD'
+covid_ldp_path_name = 'COVID_LDP'
+
+normal_path_name = 'NORMAL'
+normal_std_path_name = 'NORMAL_STD'
+normal_ldp_path_name = 'NORMAL_LDP'
+
+bacterial_path_name = 'BACTERIAL'
+bacterial_std_path_name = 'BACTERIAL_STD'
+bacterial_ldp_path_name = 'BACTERIAL_LDP'
+viral_path_name = 'VIRAL'
+viral_std_path_name = 'VIRAL_STD'
+viral_ldp_path_name = 'VIRAL_LDP'
